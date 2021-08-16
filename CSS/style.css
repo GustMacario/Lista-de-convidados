@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #888;
+}
+
+#convidado{
+    margin: 10px 0;
+    font-size: 32px;
+    list-style-type: circle;
+}
+
+#excluir{
+    margin: 0px 10px;
+    color: rgb(255, 119, 119);
+    text-decoration: none;
+    padding: 1px;
+}
+
+#excluir:hover{
+    cursor: pointer;
+}
+
+#elBotao{
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: #333;
+    text-align: center;
+    border: none;
+    border-radius: 3px;
+}
+
+#elBotao:hover{
+    cursor: pointer;
+}
+
+#elCampo{
+    height: 28px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
